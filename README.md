@@ -1,4 +1,4 @@
-![image_alt](https://github.com/morg-ana-00/Demoday---Skane/blob/d96e3e1343bf11af363e5f9759a2c6321b2f8324/WhatsApp%20Image%202026-11-12%20at%2022.39.08.jpeg)
+![image_alt](https://github.com/morg-ana-00/Demoday---Skane/blob/36ec131709a0bae7687258c2ac54d2dc1949367e/WhatsApp%20Image%202026-11-12%20at%2022.39.08.jpg)
 
 # SKANE
 
