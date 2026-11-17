@@ -6,6 +6,33 @@
 
 Projeto desenvolvido pelo grupo **SKANE** - **Equipe 4** no **PROA Profissão**, apresentado no Demoday.
 
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: rafaballerini
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+
 ## O problema
 
 Nas pesquisas que fizemos sobre veículos e combustível, as dores mais frequentes dos motoristas foram:
