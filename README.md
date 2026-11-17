@@ -25,6 +25,12 @@ A **SKANE** é um dispositivo pequeno, do tamanho da palma da mão, que se conec
 
 > **Nota:** a SKANE estima os litros adicionados a partir do nível do tanque. Ainda não detecta adulteração do combustível.
 
+## Desenvolvimento e desafios
+
+Durante o desenvolvimento, o nosso maior desafio foi o tempo. Com o prazo do curso correndo, precisamos construir o protótipo, unindo dispositivo e aplicativo, ao mesmo tempo em que pesquisávamos, validávamos a ideia e organizávamos a equipe.
+
+Chegamos ao Demoday com uma solução funcional e com um aprendizado importante: entregar um produto em pouco tempo exige foco, colaboração e priorização.
+
 ## Modelo de negócio
 
 - Venda do **kit** (dispositivo).
@@ -42,14 +48,17 @@ A **SKANE** é um dispositivo pequeno, do tamanho da palma da mão, que se conec
 | Gustavo Souza | Desenvolvedor |
 | Lucca Biscola | Desenvolvedor |
 
-## Sobre o projeto
-
-O grupo começou com outro tema (Libras) e, após validação com a professora Débora, migrou para o tema de combustível, que deu origem à SKANE.
-
 ---
 
-Algumas observações:
+## Agradecimentos
 
-- Mantive o aviso sobre adulteração porque é uma pergunta provável da banca e é melhor que ele já esteja claro no README.
-- Não incluí o Renan na tabela por ele ter saído do grupo. Se quiser, posso adicionar uma linha de agradecimento ao trabalho inicial dele.
-- Se quiser, posso acrescentar seções de **tecnologias usadas** e **como rodar o projeto**, caso me passe a stack do app.
+A SKANE só foi possível graças ao apoio de muitas pessoas ao longo da jornada no PROA Profissão. Nosso muito obrigado:
+
+- **Ao Renan**, antigo integrante do grupo, pela contribuição no início do projeto e pelo trabalho que ajudou a construir a base da SKANE.
+- **Ao prof. Jailson Costa**, que nos acompanhou do início ao fim do curso e nos passou noções essenciais sobre regras de negócio para o desenvolvimento do projeto.
+- **À profa. Débora**, que nos orientou e nos ajudou na escolha do tema do projeto.
+- **Ao tutor Gregory**, que nos guiou ao longo de todo o desenvolvimento.
+- **Ao prof. Israel Junior**, que nos orientou e nos ajudou a definir o caminho do projeto.
+- **À Letícia**, que nos deu apoio na saída do antigo integrante e durante todo o processo do curso.
+- **Aos nossos colegas de classe**, pela troca de experiências e pelo companheirismo.
+- **Aos nossos colegas de equipe**, pela dedicação, pela parceria e por fazerem esse projeto acontecer juntos.
