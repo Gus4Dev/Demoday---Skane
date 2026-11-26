@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1795701125672-8qiE.png" />
+  <img src="()" />
   <h1>SKANE</h1>
   <p><strong>"A bomba não diz, mas o seu carro sente."</strong></p>
 </div>
