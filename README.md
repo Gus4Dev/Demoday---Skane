@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo-skane-transparent.png" alt="Logotipo SKANE" width="240" />
+  <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1795701125672-8qiE.png" />
   <h1>SKANE</h1>
   <p><strong>"A bomba não diz, mas o seu carro sente."</strong></p>
 </div>
