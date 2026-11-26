@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Gus4Dev/Demoday---Skane/blob/main/WhatsApp%20Image%202026-11-12%20at%2022.39.08.jpg?raw=true" alt="Logo SKANE" width="220" />
+  <img src="file:///C:/Users/Aluno/Downloads/Skane%20Sem%20fundo.png" alt="Logo SKANE" width="500" />
   <h1>SKANE</h1>
   <p><strong>"A bomba não diz, mas o seu carro sente."</strong></p>
 </div>
